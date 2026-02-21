@@ -1,0 +1,19 @@
+# Environments
+venv/
+env/
+
+# Python Bytecode & Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sensitive Data
+.env
+
+# AMD Project Specifics
+temp_uploads/
+dist/
+build/
+*.spec
