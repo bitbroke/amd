@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+report.json
+
+# Node / React
+node_modules/
+ui/node_modules/
+dist/
+build/
+
+# Security (CRITICAL)
+secrets.txt
+.env
+
+# IDEs
+.vscode/
+.idea/
