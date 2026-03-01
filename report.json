@@ -1,0 +1,114 @@
+[
+    {
+        "finding": "API_FindFirstFileW",
+        "desc": "This application reads or writes to local files.",
+        "score": -0.24772319197654724,
+        "risk": 0.5,
+        "drift": 0.3738615959882736,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "STR_Base64_RtlRegisterFeatureConfigurationChangeNotificatio",
+        "desc": "This application accesses system registry keys.",
+        "score": -0.9701761743053794,
+        "risk": 0.3,
+        "drift": 0.38105285229161384,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_ReadFile",
+        "desc": "This application reads or writes to local files.",
+        "score": -0.24772319197654724,
+        "risk": 0.5,
+        "drift": 0.3738615959882736,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "STR_IPv4_5.1.0.0",
+        "desc": "This application connects to a specific IP address: 5.1.0.0.",
+        "score": -0.8796393610537052,
+        "risk": 0.7,
+        "drift": 1.1057475527375935,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "STR_Base64_RtlUnregisterFeatureConfigurationChangeNotificat",
+        "desc": "This application accesses system registry keys.",
+        "score": -0.9701761743053794,
+        "risk": 0.3,
+        "drift": 0.38105285229161384,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_CreateFileMappingW",
+        "desc": "This application reads or writes to local files.",
+        "score": -0.24772319197654724,
+        "risk": 0.5,
+        "drift": 0.3738615959882736,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_SendMessageW",
+        "desc": "This application transmits data to servers.",
+        "score": -0.9527082592248917,
+        "risk": 0.8,
+        "drift": 1.4021666073799135,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "STR_URL_http://schemas.microsoft.com",
+        "desc": "This application contains a hardcoded URL: http://schemas.microsoft.com.",
+        "score": -0.8966742791235447,
+        "risk": 0.6,
+        "drift": 0.8980045674741268,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_SendDlgItemMessageW",
+        "desc": "This application transmits data to servers.",
+        "score": -0.9527082592248917,
+        "risk": 0.8,
+        "drift": 1.4021666073799135,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_RegOpenKeyExW",
+        "desc": "This application accesses system registry keys.",
+        "score": -0.9701761743053794,
+        "risk": 0.3,
+        "drift": 0.38105285229161384,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "STR_IPv4_6.0.0.0",
+        "desc": "This application connects to a specific IP address: 6.0.0.0.",
+        "score": -0.883074190467596,
+        "risk": 0.7,
+        "drift": 1.108151933327317,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_WriteFile",
+        "desc": "This application reads or writes to local files.",
+        "score": -0.24772319197654724,
+        "risk": 0.5,
+        "drift": 0.3738615959882736,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_CreateFileW",
+        "desc": "This application reads or writes to local files.",
+        "score": -0.24772319197654724,
+        "risk": 0.5,
+        "drift": 0.3738615959882736,
+        "status": "VIOLATION"
+    },
+    {
+        "finding": "API_RegGetValueW",
+        "desc": "This application accesses system registry keys.",
+        "score": -0.9701761743053794,
+        "risk": 0.3,
+        "drift": 0.38105285229161384,
+        "status": "VIOLATION"
+    }
+]
